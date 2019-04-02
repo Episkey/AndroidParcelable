@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Parcelable</string>
+    <string name="brand">brand</string>
+    <string name="kilometers">Kilometers</string>
+    <string name="go">GO</string>
+    <string name="textview">TextView</string>
+</resources>
